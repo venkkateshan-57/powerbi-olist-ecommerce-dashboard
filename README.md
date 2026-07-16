@@ -17,10 +17,27 @@ This project focuses on analyzing a multi-table e-commerce dataset to answer key
 The dashboard was developed using Power BI with Power Query for data preparation, DAX for business calculations, and an optimized star schema data model.
 
 ---
+## Features
+
+- Interactive executive dashboard with key business KPIs
+- Sales performance analysis across products and regions
+- Customer behavior and review analysis
+- Logistics and delivery performance monitoring
+- Dynamic filtering using slicers
+- Multi-page dashboard with drill-down capability
+- Built using a star schema data model
+- Custom DAX measures for business calculations
 
 ## Dashboard Pages
 ## Dashboard Preview
+## Key Insights
 
+- Health Beauty generated the highest revenue among all product categories.
+- São Paulo contributed the largest share of total sales.
+- Most customers rated their purchases 5 out of 5.
+- Credit Card was the most frequently used payment method.
+- Average delivery time remained around 12–15 days throughout the year.
+- Delivery delays were concentrated in a few customer states, highlighting potential logistics bottlenecks.
 ### Executive Dashboard
 
 ![Executive Dashboard](images/executive-dashboard.png)
@@ -97,6 +114,16 @@ Includes:
 - Delivery Delays by Customer State
 
 ---
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- Power Query (ETL)
+- DAX Measures
+- KPI Design
+- Dashboard Design
+- Business Intelligence
+- Data Visualization
 
 ## Tools Used
 
@@ -133,4 +160,4 @@ powerbi-olist-ecommerce-dashboard/
 
 **Venkkateshan**
 
-Aspiring Data Analyst passionate about building business intelligence dashboards and solving real-world business problems using data.
+Aspiring Data Analyst with hands-on experience in Power BI, SQL, Python, Excel, and Machine Learning. Passionate about transforming raw data into meaningful business insights through interactive dashboards and analytics.

@@ -28,7 +28,7 @@ The dashboard was developed using Power BI with Power Query for data preparation
 - Built using a star schema data model
 - Custom DAX measures for business calculations
 
-## Dashboard Pages
+
 ## Dashboard Preview
 ## Key Insights
 
@@ -38,6 +38,7 @@ The dashboard was developed using Power BI with Power Query for data preparation
 - Credit Card was the most frequently used payment method.
 - Average delivery time remained around 12–15 days throughout the year.
 - Delivery delays were concentrated in a few customer states, highlighting potential logistics bottlenecks.
+## Dashboard Pages
 ### Executive Dashboard
 
 ![Executive Dashboard](images/executive-dashboard.png)

@@ -161,4 +161,4 @@ powerbi-olist-ecommerce-dashboard/
 
 **Venkkateshan**
 
-Aspiring Data Analyst with hands-on experience in Power BI, SQL, Python, Excel, and Machine Learning. Passionate about transforming raw data into meaningful business insights through interactive dashboards and analytics.
+Data Analyst | SQL | Power BI | Python
